@@ -7,4 +7,4 @@ To run front:
 
 To run back:
  - cd back
- 
+ - node index.js
